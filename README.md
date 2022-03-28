@@ -7,10 +7,13 @@
 
 - 👯 I love **Science & Coding**
 
-- 💬 Ask me about **Java,Graphic design**
+- 💬 Ask me about **Java,Graphic design,Science**
+
+- 📫 How to reach me **vaishnav473202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/vaishnav-v-ill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnav-v-ill" height="30" width="40" /></a>
 <a href="https://instagram.com/vaishnav_v_illath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishnav_v_illath" height="30" width="40" /></a>
 </p>
 
